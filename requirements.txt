@@ -1,0 +1,8 @@
+torch==1.7.0
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+seaborn
+umap-learn

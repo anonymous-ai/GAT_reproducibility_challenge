@@ -1,0 +1,3 @@
+Exp repeat: 100 
+Mean test Acc: 0.8729521473792278 | Std test Acc: 0.010418879584231744 
+Mean test loss: 0.7961904865503311 | Std test loss: 0.16750893458106844
